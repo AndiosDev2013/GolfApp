@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.app.golfapp.ui.view.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/background"
+        android:padding="@dimen/margin_normal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.AppCompatTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="?attr/actionBarSize"
+                android:paddingTop="@dimen/margin_large"
+                android:text="@string/Toggle_UI"
+                android:textColor="@color/text_light"
+                android:textSize="@dimen/textsize_large" />
+
+            <android.support.v7.widget.SwitchCompat
+                android:id="@+id/swt_toggle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_normal"
+                android:checked="true" />
+
+            <android.support.v7.widget.AppCompatTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_large"
+                android:paddingTop="@dimen/margin_large"
+                android:text="@string/Time_interval_for_GPS"
+                android:textColor="@color/text_light"
+                android:textSize="@dimen/textsize_large" />
+
+            <android.support.v7.widget.AppCompatTextView
+                android:id="@+id/txt_time_interval"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_normal"
+                android:background="@color/white"
+                android:padding="@dimen/margin_normal"
+                android:textColor="@color/text_normal"
+                android:textSize="@dimen/textsize_normal" />
+
+            <android.support.v7.widget.AppCompatTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_large"
+                android:paddingTop="@dimen/margin_large"
+                android:text="@string/Transparent_map"
+                android:textColor="@color/text_light"
+                android:textSize="@dimen/textsize_large" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="left"
+                    android:text="0"
+                    android:textColor="@color/text_normal"
+                    android:textSize="@dimen/textsize_normal" />
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="50"
+                    android:textColor="@color/text_normal"
+                    android:textSize="@dimen/textsize_normal" />
+
+                <android.support.v7.widget.AppCompatTextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="right"
+                    android:text="100"
+                    android:textColor="@color/text_normal"
+                    android:textSize="@dimen/textsize_normal" />
+            </LinearLayout>
+
+            <SeekBar
+                android:id="@+id/seekbar_transparent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:padding="@dimen/margin_normal"
+                android:textColor="@color/text_normal"
+                android:textSize="@dimen/textsize_normal" />
+        </LinearLayout>
+
+    </com.app.golfapp.ui.view.NestedScrollView>
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appBarLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            android:theme="@style/Actionbar.White"
+            app:layout_scrollFlags="scroll|enterAlways" />
+    </android.support.design.widget.AppBarLayout>
+</android.support.design.widget.CoordinatorLayout>

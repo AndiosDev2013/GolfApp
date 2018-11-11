@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common -->
+    <dimen name="margin_very_small">1dp</dimen>
+    <dimen name="margin_extra_small">2dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_normal">8dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="margin_large_minus">-16dp</dimen>
+    <dimen name="margin_extra_large">32dp</dimen>
+    <dimen name="margin_very_large">48dp</dimen>
+    <dimen name="margin_really_large">64dp</dimen>
+
+    <!-- text size -->
+    <dimen name="textsize_very_small">8sp</dimen>
+    <dimen name="textsize_extra_small">11sp</dimen>
+    <dimen name="textsize_small">14sp</dimen>
+    <dimen name="textsize_normal">16sp</dimen>
+    <dimen name="textsize_large">18sp</dimen>
+    <dimen name="textsize_extra_large">21sp</dimen>
+    <dimen name="textsize_very_large">24sp</dimen>
+    <dimen name="textsize_really_large">36sp</dimen>
+
+    <!-- Image Size -->
+    <dimen name="image_very_small">12dp</dimen>
+    <dimen name="image_extra_small">24dp</dimen>
+    <dimen name="image_more_small">36dp</dimen>
+    <dimen name="image_small">48dp</dimen>
+    <dimen name="image_normal">72dp</dimen>
+    <dimen name="image_large">96dp</dimen>
+    <dimen name="image_extra_large">128dp</dimen>
+    <dimen name="image_very_large">144dp</dimen>
+    <dimen name="image_super_large">192dp</dimen>
+
+    <!-- Action bar icon size -->
+    <dimen name="detail_backdrop_height">320dp</dimen>
+    <dimen name="tabsHeight">48dp</dimen>
+
+</resources>

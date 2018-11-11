@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<facility name="Bayview Golf Club" coordinate="151.301492,-33.670305" gbbkgcolor="#ffff00"
+    gbtxtcolor="#000000" gcbkgcolor="#ffffff" gctxtcolor="#000000" gfbkgcolor="#0000ff"
+    gftxtcolor="#ffffff" id="1" projection="mercator" shotplanner="yes" showcart="yes"
+    sound="on" timezone="Australia/Sydney" units="metric" vendor="on-pin">
+    <homebase name="HB1" adset="" coordinate="151.301672,-33.670143" radius="6" />
+    <homebase name="HB2" adset="" coordinate="151.300865,-33.670354" radius="6" />
+    <homebase name="HB3" adset="" coordinate="151.300997,-33.670202" radius="6" />
+    <vcourse name="Bayview Course" backId="2" frontId="1" id="1" />
+    <course name="Front Nine" id="1" label="">
+        <hole name="" c1="151.30209310,-33.67032801" c2="151.30269820,-33.66687426" c3="151.30026840,-33.66657936" c4="151.29966320,-33.67003309" label="1"
+            number="1" pace="15"
+            par="4">
+            <trigger name="H01TZ1" coordinate="151.30142591,-33.66998657" radius="8" />
+            <trigger name="H01TZ2" coordinate="151.30121974,-33.66949300" radius="36" />
+            <greenBack coordinate="151.30049340,-33.66678265" />
+            <greenCenter coordinate="151.30049185,-33.66687978" />
+            <greenFront coordinate="151.30048235,-33.66701850" />
+            <hazard name="H01H1" coordinate="151.30095734,-33.66885720"
+                landscape="386,263,462,429" />
+            <hazard name="H01H2" coordinate="151.30055202,-33.66750169"
+                landscape="764,99,816,316" />
+        </hole>
+        <hole name="" c1="151.30056000,-33.66653041" c2="151.29545200,-33.66668916" c3="151.29556400,-33.66917986" c4="151.30067100,-33.66902111" label="2"
+            number="2" pace="17"
+            par="5">
+            <trigger name="H02TZ1" coordinate="151.29999600,-33.66701000" radius="12" />
+            <trigger name="H02TZ2" coordinate="151.29937200,-33.66702600" radius="10" />
+            <greenBack coordinate="151.29587400,-33.66887906" />
+            <greenCenter coordinate="151.29602645,-33.66882525" />
+            <greenFront coordinate="151.29616403,-33.66875573" />
+            <hazard name="H02H1" coordinate="151.29814415,-33.66749636"
+                landscape="544,359,578,518" />
+            <hazard name="H02H2" coordinate="151.29794358,-33.66763197"
+                landscape="589,318,669,502" />
+            <hazard name="H02H3" coordinate="151.29655518,-33.66836495"
+                landscape="817,189,855,334" />
+        </hole>
+        <hole name="" c1="151.29627600,-33.66853765" c2="151.29258100,-33.66725842" c3="151.29168100,-33.66906045" c4="151.29537600,-33.67033965" label="3"
+            number="3" pace="15"
+            par="4">
+            <trigger name="H03TZ1" coordinate="151.29566444,-33.66873810" radius="15" />
+            <trigger name="H03TZ2" coordinate="151.29512700,-33.66894900" radius="14" />
+            <greenBack coordinate="151.29215942,-33.66887648" />
+            <greenCenter coordinate="151.29230896,-33.66891435" />
+            <greenFront coordinate="151.29250441,-33.66896597" />
+            <hazard name="H03H1" coordinate="151.29365603,-33.66950574" landscape="500,65,355,60" />
+            <hazard name="H03H2" coordinate="151.29321311,-33.66916344"
+                landscape="652,114,726,309" />
+        </hole>
+        <hole name="" c1="151.29205980,-33.66839430" c2="151.29185000,-33.66665264" c3="151.29062470,-33.66675488" c4="151.29083450,-33.66849654" label="4"
+            number="4" pace="13"
+            par="3">
+            <trigger name="H04TZ1" coordinate="151.29154649,-33.66813716" radius="16" />
+            <trigger name="H04TZ2" coordinate="151.29137014,-33.66781672" radius="16" />
+            <greenBack coordinate="151.29086258,-33.66687610" />
+            <greenCenter coordinate="151.29090577,-33.66696878" />
+            <greenFront coordinate="151.29095665,-33.66707141" />
+        </hole>
+        <hole name="" c1="151.29058290,-33.66628670" c2="151.29177780,-33.66900356" c3="151.29368920,-33.66842126" c4="151.29249430,-33.66570442" label="5"
+            number="5" pace="15"
+            par="4">
+            <trigger name="H05TZ1" coordinate="151.29096416,-33.66667960" radius="12" />
+            <trigger name="H05TZ2" coordinate="151.29140076,-33.66712174" radius="16" />
+            <greenBack coordinate="151.29333264,-33.66823587" />
+            <greenCenter coordinate="151.29318188,-33.66820864" />
+            <greenFront coordinate="151.29303713,-33.66817826" />
+            <hazard name="H05H1" coordinate="151.29247001,-33.66817005"
+                landscape="816,303,870,511" />
+        </hole>
+        <hole name="" c1="151.29386670,-33.66825223" c2="151.29261700,-33.66531636" c3="151.29055160,-33.66592532" c4="151.29180120,-33.66886121" label="6"
+            number="6" pace="15"
+            par="4">
+            <trigger name="H06TZ1" coordinate="151.29325894,-33.66794789" radius="16" />
+            <trigger name="H06TZ2" coordinate="151.29267341,-33.66763450" radius="20" />
+            <greenBack coordinate="151.29087711,-33.66605177" />
+            <greenCenter coordinate="151.29097664,-33.66614334" />
+            <greenFront coordinate="151.29108494,-33.66621579" />
+            <hazard name="H06H1" coordinate="151.29184909,-33.66690826"
+                landscape="599,235,669,424" />
+        </hole>
+        <hole name="" c1="151.29048220,-33.66563894" c2="151.28914140,-33.66855221" c3="151.29119100,-33.66920563" c4="151.29253310,-33.66628949" label="7"
+            number="7" pace="15"
+            par="4">
+            <trigger name="H07TZ1" coordinate="151.29061552,-33.66625340" radius="15" />
+            <trigger name="H07TZ2" coordinate="151.29014266,-33.66754458" radius="28" />
+            <greenBack coordinate="151.29110924,-33.66895478" />
+            <greenCenter coordinate="151.29102814,-33.66887263" />
+            <greenFront coordinate="151.29092990,-33.66877021" />
+            <hazard name="H07H1" coordinate="151.29024542,-33.66803786"
+                landscape="756,376,599,181" />
+        </hole>
+        <hole name="" c1="151.29154230,-33.66898922" c2="151.29242590,-33.67032946" c3="151.29336880,-33.66989888" c4="151.29248520,-33.66855864" label="8"
+            number="8" pace="13"
+            par="3">
+            <trigger name="H08TZ1" coordinate="151.29195842,-33.66905095" radius="10" />
+            <trigger name="H08TZ2" coordinate="151.29220733,-33.66935102" radius="10" />
+            <greenBack coordinate="151.29307799,-33.66985756" />
+            <greenCenter coordinate="151.29292628,-33.66978667" />
+            <greenFront coordinate="151.29276367,-33.66971949" />
+        </hole>
+        <hole name="" c1="151.29244530,-33.67090656" c2="151.29641820,-33.67118947" c3="151.29661720,-33.66925345" c4="151.29264440,-33.66897055" label="9"
+            number="9" pace="15"
+            par="4">
+            <trigger name="H09TZ1" coordinate="151.29288784,-33.67072941" radius="16" />
+            <trigger name="H09TZ2" coordinate="151.29337039,-33.67049766" radius="10" />
+            <greenBack coordinate="151.29637297,-33.66947447" />
+            <greenCenter coordinate="151.29624381,-33.66950822" />
+            <greenFront coordinate="151.29609253,-33.66954730" />
+            <hazard name="H09H1" coordinate="151.29491065,-33.66978358"
+                landscape="627,192,732,404" />
+        </hole>
+        <hole name="" c1="151.29732380,-33.67104138" c2="151.29963960,-33.67046067" c3="151.29923100,-33.66933218" c4="151.29691530,-33.66991288" label="10"
+            number="10" pace="13"
+            par="3">
+            <trigger name="H10TZ1" coordinate="151.29745225,-33.67076567" radius="12" />
+            <trigger name="H10TZ2" coordinate="151.29794239,-33.67040844" radius="10" />
+            <greenBack coordinate="151.29914818,-33.66955946" />
+            <greenCenter coordinate="151.29906855,-33.66961851" />
+            <greenFront coordinate="151.29897760,-33.66967418" />
+        </hole>
+        <hole name="" c1="151.29905320,-33.66924585" c2="151.29937780,-33.67114802" c3="151.30071610,-33.67098980" c4="151.30039140,-33.66908763" label="11"
+            number="11" pace="15"
+            par="4">
+            <trigger name="H11TZ1" coordinate="151.29930697,-33.66962005" radius="14" />
+            <trigger name="H11TZ2" coordinate="151.29958876,-33.66979364" radius="12" />
+            <greenBack coordinate="151.30043686,-33.67083820" />
+            <greenCenter coordinate="151.30037055,-33.67077205" />
+            <greenFront coordinate="151.30030527,-33.67069632" />
+        </hole>
+    </course>
+    <course name="Back Nine" id="2">
+        <hole name="" c1="151.30104380,-33.67087349" c2="151.30077730,-33.66899957" c3="151.29945890,-33.66912942" c4="151.29972540,-33.67100335" label="12"
+            number="1" pace="13"
+            par="3">
+            <trigger name="H12TZ1" coordinate="151.30081897,-33.67065159" radius="20" />
+            <trigger name="H12TZ2" coordinate="151.30050548,-33.67031299" radius="16" />
+            <greenBack coordinate="151.29966464,-33.66922961" />
+            <greenCenter coordinate="151.29972553,-33.66931291" />
+            <greenFront coordinate="151.29977629,-33.66941671" />
+        </hole>
+        <hole name="" c1="151.30008990,-33.66854863" c2="151.29650960,-33.66905164" c3="151.29686060,-33.67079254" c4="151.30044150,-33.67029244" label="13"
+            number="2" pace="15"
+            par="4">
+            <trigger name="H13TZ1" coordinate="151.29977543,-33.66877062" radius="20" />
+            <trigger name="H13TZ2" coordinate="151.29954800,-33.66889819" radius="10" />
+            <greenBack coordinate="151.29705893,-33.67048841" />
+            <greenCenter coordinate="151.29713610,-33.67043814" />
+            <greenFront coordinate="151.29721648,-33.67038834" />
+        </hole>
+        <hole name="" c1="151.297735,-33.670481" c2="151.293360,-33.669038" c3="151.292344,-33.671171" c4="151.296719,-33.672614" label="14"
+            number="3" pace="17" par="5">
+            <trigger name="H14TZ1" coordinate="151.29717119,-33.67085079" radius="12" />
+            <trigger name="H14TZ2" coordinate="151.29619269,-33.67044278" radius="18" />
+            <greenBack coordinate="151.29300549,-33.67098665" />
+            <greenCenter coordinate="151.29321598,-33.67100002" />
+            <greenFront coordinate="151.29338438,-33.67098562" />
+            <hazard name="H14H1" coordinate="151.293650,-33.671030" landscape="W2" />
+        </hole>
+        <hole name="" c1="151.29225050,-33.67078008" c2="151.29707910,-33.67118121" c3="151.29736120,-33.66882825" c4="151.29253280,-33.66842713" label="15"
+            number="4" pace="17"
+            par="5">
+            <trigger name="H15TZ1" coordinate="151.29263872,-33.67062473" radius="12" />
+            <trigger name="H15TZ2" coordinate="151.29344305,-33.67026337" radius="8" />
+            <greenBack coordinate="151.29692628,-33.66910729" />
+            <greenCenter coordinate="151.29679383,-33.66911542" />
+            <greenFront coordinate="151.29664108,-33.66912089" />
+            <hazard name="H15H1" coordinate="151.29472199,-33.66935644"
+                landscape="481,182,573,381" />
+        </hole>
+        <hole name="" c1="151.29861610,-33.66836396" c2="151.29622900,-33.66864371" c3="151.29642580,-33.66980695" c4="151.29881290,-33.66952720" label="16"
+            number="5" pace="13"
+            par="3">
+            <trigger name="H16TZ1" coordinate="151.29801860,-33.66878981" radius="16" />
+            <trigger name="H16TZ2" coordinate="151.29718827,-33.66931689" radius="16" />
+            <greenBack coordinate="151.29657196,-33.66955192" />
+            <greenCenter coordinate="151.29673842,-33.66950208" />
+            <greenFront coordinate="151.29688342,-33.66945291" />
+        </hole>
+        <hole name="" c1="151.29516550,-33.67071410" c2="151.30038820,-33.67045401" c3="151.30020200,-33.66790661" c4="151.29497490,-33.66817546" label="17"
+            number="6" pace="15"
+            par="4">
+            <trigger name="H17TZ1" coordinate="151.29629019,-33.66995253" radius="14" />
+            <trigger name="H17TZ2" coordinate="151.29723692,-33.66972583" radius="18" />
+            <greenBack coordinate="151.299912,-33.668093" />
+            <greenCenter coordinate="151.299770,-33.668193" />
+            <greenFront coordinate="151.299615,-33.668282" />
+        </hole>
+        <hole name="" c1="151.29965370,-33.66700415" c2="151.29897040,-33.67002728" c3="151.30109450,-33.67035672" c4="151.30177630,-33.66733949" label="18"
+            number="7" pace="15"
+            par="4">
+            <trigger name="H18TZ1" coordinate="151.30015456,-33.66812374" radius="14" />
+            <trigger name="H18TZ2" coordinate="151.30013075,-33.66845667" radius="14" />
+            <greenBack coordinate="151.30085698,-33.67012311" />
+            <greenCenter coordinate="151.30080119,-33.66999598" />
+            <greenFront coordinate="151.30069389,-33.66986976" />
+            <hazard name="H18H1" coordinate="151.30029820,-33.66935008"
+                landscape="766,280,708,493" />
+        </hole>
+    </course>
+</facility>

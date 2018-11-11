@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Golf App</string>
+
+    <string name="Course_Name">Course Name</string>
+    <string name="Course_Number">Course Number</string>
+    <string name="dlg_gps_setting">Do you want open GPS setting?</string>
+    <string name="dlg_rate_title">Rate %1$s now!</string>
+    <string name="dlg_rate_message">Please click <b>RATE NOW</b> for rating us now, if you don\'t want to do it now, please click <b>LATER</b>, if you click <b>DON\'T ASK AGAIN</b>, you will not have way to rate us!!!"</string>
+    <string name="dlg_rate_btn_rate_now">Rate now</string>
+    <string name="dlg_rate_btn_rate_later">Later</string>
+    <string name="dlg_rate_btn_no_rate">Don\'t ask again</string>
+    <string name="dlg_select_course">Select the course</string>
+    <string name="dlg_select_time_interval">Select the time interval for GPS location refreshing</string>
+    <string name="Hole_Name">Hole Name</string>
+    <string name="Hole_Number">Hole Number</string>
+    <string name="Settings">Settings</string>
+    <string name="Time_interval_for_GPS">Time interval for GPS</string>
+    <string name="Transparent_map">Transparent Map</string>
+    <string name="Toggle_UI">Toggle UI</string>
+
+    <!-- Common -->
+    <string name="Add">Add</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Edit">Edit</string>
+    <string name="Error">Error</string>
+    <string name="Fail">Fail</string>
+    <string name="No">No</string>
+    <string name="OK">OK</string>
+    <string name="Search">Search</string>
+    <string name="Success">Success</string>
+    <string name="Yes">Yes</string>
+
+    <!-- message -->
+    <string name="msg_alert_on_back_pressed">Press Back Button once more to exit</string>
+    <string name="msg_error_no_course">No Course!</string>
+    <string name="msg_error_no_hole">No Hole!</string>
+    <string name="msg_error_network">No network connection!</string>
+    <string name="msg_error_yelp">Yelp API initialize failed!</string>
+    <string name="msg_error_restaurant_data">Invalid restaurant!</string>
+    <string name="msg_error_no_restaurant_selected">Please select at least one restaurant</string>
+    <string name="msg_error_zipcode">Zip code seems to be NOT valid!</string>
+
+    <!-- Time -->
+    <string name="checkin_time_minus">Just now</string>
+    <string name="checkin_time_second_ago">%1$d second ago</string>
+    <string name="checkin_time_seconds_ago">%1$d seconds ago</string>
+    <string name="checkin_time_minute_ago">%1$d minute ago</string>
+    <string name="checkin_time_minutes_ago">%1$d minutes ago</string>
+    <string name="checkin_time_hour_ago">%1$d hour ago</string>
+    <string name="checkin_time_hours_ago">%1$d hours ago</string>
+    <string name="checkin_time_day_ago">%1$d day ago</string>
+    <string name="checkin_time_days_ago">%1$d days ago</string>
+    <string name="checkin_time_week_ago">%1$d week ago</string>
+    <string name="checkin_time_weeks_ago">%1$d weeks ago</string>
+    <string name="checkin_time_month_ago">%1$d month ago</string>
+    <string name="checkin_time_months_ago">%1$d months ago</string>
+
+    <!-- Mapbox -->
+    <string name="mapbox_access_token">pk.eyJ1IjoiamlhbmdqaWFuMjAxMyIsImEiOiJjam9iOTE3M2QwOGJtM3FqZDdhNzFzNDZxIn0._R-5iuUHbQscEKCJu91bhQ</string>
+
+</resources>

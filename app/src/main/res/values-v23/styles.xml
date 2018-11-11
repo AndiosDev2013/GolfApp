@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="actionMenuTextColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+</resources>
